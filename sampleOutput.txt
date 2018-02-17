@@ -1,0 +1,147 @@
+This is the 1 arrival
+This is the 2 arrival
+This is the 1 free
+This is the 2 free
+This is the 3 arrival
+This is the 4 arrival
+This is the 3 free
+This is the 5 arrival
+This is the 4 free
+This is the 6 arrival
+This is the 7 arrival
+This customer went to the queue, queue length is 1
+This is the 8 arrival
+This customer went to the queue, queue length is 2
+This is the 5 free
+A customer served by the counter, queue length is1
+A customer quited from the queue
+This is the 6 free
+A customer served by the counter, queue length is0
+A customer quited from the queue
+This is the 7 free
+This is the 8 free
+This is the 9 arrival
+This is the 10 arrival
+This is the 9 free
+This is the 10 free
+This is the 11 arrival
+This is the 11 free
+This is the 12 arrival
+This is the 12 free
+This is the 13 arrival
+This is the 14 arrival
+This is the 13 free
+This is the 14 free
+This is the 15 arrival
+This is the 15 free
+This is the 16 arrival
+This is the 16 free
+This is the 17 arrival
+This is the 18 arrival
+This is the 17 free
+This is the 18 free
+This is the 19 arrival
+This is the 19 free
+This is the 20 arrival
+This is the 21 arrival
+This is the 20 free
+This is the 22 arrival
+This is the 21 free
+This is the 23 arrival
+This is the 22 free
+This is the 23 free
+This is the 24 arrival
+This is the 24 free
+This is the 25 arrival
+This is the 25 free
+This is the 26 arrival
+This is the 26 free
+This is the 27 arrival
+This is the 27 free
+This is the 28 arrival
+This is the 28 free
+This is the 29 arrival
+This is the 29 free
+This is the 30 arrival
+This is the 30 free
+This is the 31 arrival
+This is the 32 arrival
+This is the 33 arrival
+This customer went to the queue, queue length is 1
+This is the 31 free
+A customer served by the counter, queue length is0
+A customer quited from the queue
+This is the 32 free
+This is the 34 arrival
+This is the 33 free
+This is the 34 free
+This is the 35 arrival
+This is the 35 free
+This is the 36 arrival
+This is the 37 arrival
+This is the 38 arrival
+This customer went to the queue, queue length is 1
+This is the 39 arrival
+This customer went to the queue, queue length is 2
+This is the 36 free
+A customer served by the counter, queue length is1
+A customer quited from the queue
+This is the 37 free
+A customer served by the counter, queue length is0
+A customer quited from the queue
+This is the 38 free
+This is the 40 arrival
+This is the 41 arrival
+VIP detected
+This customer went to the queue, queue length is 1
+This is the 42 arrival
+This customer went to the queue, queue length is 2
+This is the 43 arrival
+This customer went to the queue, queue length is 3
+This is the 39 free
+A customer served by the counter, queue length is2
+This is the 40 free
+A customer served by the counter, queue length is1
+A customer quited from the queue
+This is the 41 free
+A customer served by the counter, queue length is0
+A customer quited from the queue
+This is the 42 free
+This is the 43 free
+This is the 44 arrival
+This is the 44 free
+This is the 45 arrival
+This is the 45 free
+This is the 46 arrival
+This is the 46 free
+This is the 47 arrival
+This is the 48 arrival
+This is the 49 arrival
+This customer went to the queue, queue length is 1
+This is the 50 arrival
+This customer went to the queue, queue length is 2
+This is the 47 free
+A customer served by the counter, queue length is1
+A customer quited from the queue
+This is the 48 free
+A customer served by the counter, queue length is0
+A customer quited from the queue
+This is the 49 free
+This is the 50 free
+This is the 51 arrival
+This is the 52 arrival
+This is the 51 free
+This is the 53 arrival
+This is the 54 arrival
+This customer went to the queue, queue length is 1
+This is the 55 arrival
+This customer went to the queue, queue length is 2
+This is the 52 free
+A customer served by the counter, queue length is1
+A customer quited from the queue
+This is the 53 free
+A customer served by the counter, queue length is0
+A customer quited from the queue
+This is the 54 free
+This is the 55 free
+This is the 56 arrival
