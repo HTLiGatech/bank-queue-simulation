@@ -4,9 +4,12 @@ from customer import Customer
 from counter import Counter
 import numpy as np
 
-def main():
+
+
+def runsim():
 	###-----Simulation Begins-----###
 	f = open('sampleOutput.txt', 'w')
+	#f1 = open('infoProb.txt', 'w')
 	# To start with, initialize the FEL and the bank queue first.
 	queue = Heap()
 	FEL = HeapFEL()
@@ -35,6 +38,8 @@ def main():
 	freei = 0
 	arri = 0
 	VIPCount = 0
+
+	maxqueue = 0
 
 	# Keep on iterating until the bank closes
 	while currentTime < closeTime:
@@ -68,6 +73,8 @@ def main():
 					VIPCount += 1
 				queue.insert(event[2])
 				f.write("This customer went to the queue, queue length is " + str(len(queue.heapList) - 1) + "\n")
+		if len(queue.heapList) > maxqueue:
+			maxqueue = len(queue.heapList)
 
 		#if the event is free, the find a customer from the queue to serve.
 		elif event[0] == 'free1':
@@ -118,8 +125,12 @@ def main():
 		customer = queue.delMin()
 		counter1.busyUntil = currentTime + customer.serveTime
 		f.write('A customer is served after 5 p.m.')
-
+	#f1.write(str(maxqueue) + ', ')
+	#print maxqueue,
 	f.close()
+
+def main():
+	runsim()
 
 if __name__ == "__main__":
 	main()
